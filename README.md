@@ -1,7 +1,6 @@
 Theft Risk Classifier
 
 Project Overview:
-
 - This project predicts the theft risk of retail products based on features such as price, popularity, security level, and category. It uses a synthetic dataset and machine learning classification to identify products at higher risk of theft, providing actionable insights for retailers to improve security and reduce losses.
 - The project includes data analysis, model training, and a Streamlit web application for interactive theft risk prediction.
 

@@ -40,7 +40,7 @@ To run and view these outputs locally:
 - Ensure required packages are installed (see requirements.txt).
 - Run the script in a Python environment with graphical support:
 
-python theft_model.py
+  python theft_model.py
 
 - The script will display plots and print evaluation metrics in the console.
 

@@ -21,6 +21,7 @@ Technologies Used:
 - Streamlit
 
 Usage Instructions:
+
 Streamlit App and Model Training:
 
 You can try the live Theft Risk Classifier app here:

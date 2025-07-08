@@ -26,4 +26,14 @@ Technologies Used:
 
 Usage Instructions:
 
+You can try out the Theft Risk Classifier app live at:
+https://theft-risk-classifiergit-gd4bjssmbcpekdymx2pvvq.streamlit.app/
 
+License: 
+
+This project is licensed under the MIT License.
+
+Author:
+
+Sabrina Lone: Math and CS Undergraduate Student
+GitHub: github.com/sabrinalone45

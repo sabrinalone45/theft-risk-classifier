@@ -11,7 +11,7 @@ Retail theft is a significant concern for businesses. This project simulates a s
 - A dashboard for model evaluation, including ROC curve, confusion matrix, and hyperparameter tuning.
 
 # Features
-# Classifier Interface:
+Classifier Interface:
 
 - Inputs include product price, popularity, category, borough, security level, stock level, discount percent, and foot traffic score.
 - Outputs a binary prediction (High or Low Risk) and a confidence score.

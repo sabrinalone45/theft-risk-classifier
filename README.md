@@ -23,7 +23,7 @@ Classifier Interface:
 - Provides cross-validation results and best parameters
 
 # Usage Instructions
-Run the app using this link: https://theft-risk-classifiergit-gd4bjssmbcpekdymx2pvvq.streamlit.app/
+Run the app using this link!: https://theft-risk-classifiergit-gd4bjssmbcpekdymx2pvvq.streamlit.app/
 
 # File Structure
 theft-risk-classifier/

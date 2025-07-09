@@ -37,7 +37,7 @@ theft-risk-classifier/
 
 # Setup Instructions
 - Clone the repository:
-git clone https://github.com/yourusername/theft-risk-classifier.git
+git clone https://github.com/sabrinalone45/theft-risk-classifier.git
 cd theft-risk-classifier
 
 - Install dependencies:

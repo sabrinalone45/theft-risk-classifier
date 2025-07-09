@@ -67,6 +67,4 @@ https://www.dropbox.com/scl/fi/w79swfb3coztbtwfwqzgq/nyc_retail_theft.csv?rlkey=
 This project is for educational and demonstration purposes only.
 
 # Author
-Sabrina Lone
-
-Math and Computer Science Undergraduate Student
+Sabrina Lone, Math and Computer Science Undergraduate Student

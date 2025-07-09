@@ -39,10 +39,6 @@ theft-risk-classifier/
 └── data/
 └── nyc_retail_theft_sample.csv
 
-bash
-Copy
-Edit
-
 ## Setup Instructions
 
 1. Clone the repository:
